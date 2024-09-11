@@ -1,3 +1,9 @@
 export const ProductShowcase = () => {
-  return null;
+
+  return (
+    <div className="w-full bg-red-200 h-24">
+      
+
+        </div>
+  );
 };
