@@ -9,9 +9,9 @@ export default function Home() {
   return (
     <>
      <Header />
-    {/* <Hero />
+    <Hero />
      <LogoTicker />
-     <ProductShowcase /> */}
+     <ProductShowcase />
     <CallToAction />
     </>
   )
