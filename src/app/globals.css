@@ -21,4 +21,16 @@
     .logo-ticker-img{
         @apply h-8 w-auto
     }
+
+    .product-img{
+        @apply md:h-60 w-auto z-10 absolute
+    }
+
+    .easy-management{
+        @apply py-12 px-5  flex flex-col justify-center items-center shadow-lg w-[22rem] md:w-[30rem] gap-4 rounded-xl border-gray-300 border md:shadow-xl
+    }
+
+    .easy-managemant-title {
+        @apply text-xl md:text-3xl font-semibold    
+    }
 }
